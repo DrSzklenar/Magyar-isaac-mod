@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<minibosses>
+  <miniboss id="0" name="Lustaság" />
+  <miniboss id="1" name="Bujaság" />
+  <miniboss id="2" name="Harag" />
+  <miniboss id="3" name="Torkosság" />
+  <miniboss id="4" name="Kapzsi" />
+  <miniboss id="5" name="Irigység" />
+  <miniboss id="6" name="Büszkeség" />
+  <miniboss id="7" name="Szuper Lustaság" />
+  <miniboss id="8" name="Szuper Bujaság" />
+  <miniboss id="9" name="Szuper Harag" />
+  <miniboss id="10" name="Szuper Torkosság" />
+  <miniboss id="11" name="Szuper Kapzsi" />
+  <miniboss id="12" name="Szuper Irigység" />
+  <miniboss id="13" name="Szuper Büszkeség" />
+  <miniboss id="14" name="Ulra Büszkeség" />
+  <miniboss id="15" name="Krampusz" />
+</minibosses>

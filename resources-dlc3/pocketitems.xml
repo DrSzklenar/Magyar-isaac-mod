@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pocketitems>
+  <card id="0" name="NULL" />
+  <card type="tarot" pickup="1" description="Ahol a kaland kezdődik" id="1" name="0 - A Bolond" announcer="375" announcerdelay="60" mimiccharge="2" />
+  <card type="tarot" pickup="1" description="Soha ne téveszd célod!" id="2" name="I - A Mágus" announcer="381" mimiccharge="2" />
+  <card type="tarot" pickup="1" description="Édesanya figyel téged" id="3" name="II - A Főpapnő" announcer="379" announcerdelay="110" mimiccharge="2" />
+  <card type="tarot" pickup="1" description="Hozzon erőt a haragod" id="4" name="III - Az Úrnő" announcer="374" announcerdelay="70" mimiccharge="3" />
+  <card type="tarot" pickup="1" description="Dobd Fel!" id="5" name="IV - A Fejedelem" greedmode="false" announcer="373" announcerdelay="70" mimiccharge="4" />
+  <card type="tarot" pickup="1" description="Két imát az elveszettnek" id="6" name="V - A Főpap" announcer="378" announcerdelay="70" mimiccharge="12" />
+  <card type="tarot" pickup="1" description="Jólétet és egészséget" id="7" name="VI - A Szeretők" announcer="380" announcerdelay="70" mimiccharge="6" />
+  <card type="tarot" pickup="1" description="Semmi ne állhasson az utadba" id="8" name="VII - A Batár" announcer="371" mimiccharge="3" />
+  <card type="tarot" pickup="1" description="Váljon kiegyensúlyozottá a jövőd" id="9" name="VIII - Igazságosság" announcer="349" mimiccharge="6" />
+  <card type="tarot" pickup="1" description="Lásd meg mit ajánl az élet" id="10" name="IX - A Remete" greedmode="false" announcer="377" announcerdelay="60" mimiccharge="2" />
+  <card type="tarot" pickup="1" description="Pörgesd meg a sors kerekét" id="11" name="X - A Szerencsekerék" announcer="391" announcerdelay="60" mimiccharge="4" />
+  <card type="tarot" pickup="1" description="Hozzon haragot az erőd" id="12" name="XI - Erő" announcer="365" mimiccharge="3" />
+  <card type="tarot" pickup="1" description="Találj rá a felvilágosodásra" id="13" name="XII - A bitófázott" announcer="376" mimiccharge="3" />
+  <card type="tarot" pickup="1" description="Pusztuljon szét minden ami szembe áll veled" id="14" name="XIII - Pusztulat" announcer="337" mimiccharge="3" />
+  <card type="tarot" pickup="1" description="Tiszta szívvel" id="15" name="XIV - Mérsékeltség" announcer="370" announcerdelay="60" mimiccharge="6" />
+  <card type="tarot" pickup="1" description="Vigadj a sötétség erején" id="16" name="XV - Az Ördög" announcer="372" announcerdelay="40" mimiccharge="3" />
+  <card type="tarot" pickup="1" description="A pusztítás teremtést hoz" id="17" name="XIV - A Torony" announcer="385" announcerdelay="20" mimiccharge="3" />
+  <card type="tarot" pickup="1" description="Mondjátok el nekem" id="18" name="XVII - A Csillagok" announcer="383" announcerdelay="60" mimiccharge="2" />
+  <card type="tarot" pickup="1" description="Találj rá mindenre ami elveszett" id="19" name="XVIII - A Hold" greedmode="false" announcer="382" announcerdelay="60" mimiccharge="2" />
+  <card type="tarot" pickup="1" description="Gyógyítson és világosítson fel a fény" id="20" name="XIX - A Nap" announcer="384" announcerdelay="10" mimiccharge="12" />
+  <card type="tarot" pickup="1" description="Ne ítélj, hogy téged se ítéljenek" id="21" name="XX - Végitélet" announcer="348" mimiccharge="6" />
+  <card type="tarot" pickup="1" description="Nyisd ki a szemed és láss" id="22" name="XXI - A Világ" greedmode="false" announcer="386" mimiccharge="3" />
+  <card type="suit" pickup="2" description="Bomba duplázó" id="23" name="Treff Kettes" announcer="387" mimiccharge="12" />
+  <card type="suit" pickup="2" description="Pénz Duplázó" id="24" name="Karó Kettes" announcer="388" mimiccharge="12" />
+  <card type="suit" pickup="2" description="Kulcs duplázó" id="25" name="Pikk Kettes" announcer="390" mimiccharge="12" />
+  <card type="suit" pickup="2" description="Szív duplázó" id="26" name="Kör Kettes" announcer="389" mimiccharge="12" />
+  <card type="suit" pickup="2" achievement="322" description="Bombára cserél" id="27" name="Treff Ász" announcer="456" announcerdelay="90" mimiccharge="6" />
+  <card type="suit" pickup="2" achievement="326" description="Pénzre cserél" id="28" name="Karó Ász" announcer="455" announcerdelay="90" mimiccharge="6" />
+  <card type="suit" pickup="2" achievement="327" description="Kulcsra cserél" id="29" name="Pikk Ász" announcer="447" announcerdelay="90" mimiccharge="6" />
+  <card type="suit" pickup="2" achievement="329" description="Szívre cserél" id="30" name="Kör Ász" announcer="450" announcerdelay="90" mimiccharge="6" />
+  <card type="suit" pickup="2" description="??? " id="31" name="Joker" announcer="347" announcerdelay="60" mimiccharge="2" />
+  <rune type="rune" pickup="3" achievement="89" description="Rombol" id="32" name="" announcer="341" mimiccharge="2" />
+  <rune type="rune" pickup="3" achievement="90" description="Bőség" id="33" name="#JERA_NAME" announcer="346" mimiccharge="12" />
+  <rune type="rune" pickup="3" achievement="91" description="Járat" id="34" name="#EHWAZ_NAME" announcer="338" mimiccharge="4" />
+  <rune type="rune" pickup="3" achievement="92" description="Tisztaság" id="35" name="#DAGAZ_NAME" announcer="336" mimiccharge="6" />
+  <rune type="rune" pickup="4" achievement="93" description="Látomás" id="36" name="#ANSUZ_NAME" announcer="327" mimiccharge="2" />
+  <rune type="rune" pickup="4" achievement="94" description="Változás" id="37" name="#PERTHRO_NAME" announcer="354" mimiccharge="4" />
+  <rune type="rune" pickup="4" achievement="95" description="Társaság" id="38" name="#BERKANO_NAME" announcer="331" mimiccharge="2" />
+  <rune type="rune" pickup="4" achievement="96" description="Ellenállás" id="39" name="#ALGIZ_NAME" announcer="325" mimiccharge="4" />
+  <rune type="rune" pickup="4" achievement="233" description="???" id="40" name="Hiányos Rúna" mimiccharge="3" />
+  <rune type="rune" pickup="7" achievement="309" description="Éter" id="41" name="Feka Rúna" announcer="457" announcerdelay="150" mimiccharge="4" />
+  <card type="special" pickup="8" achievement="97" description="???" id="42" name="Káosz Kártya" announcer="334" mimiccharge="6" />
+  <card type="special" pickup="10" achievement="98" description="0 Forintos a hitelkeret" id="43" name="Hitelkárya" announcer="335" mimiccharge="6" />
+  <card type="special" pickup="2" achievement="99" description="???" id="44" name="Szabály Kártya" announcer="361" announcerdelay="30" mimiccharge="1" />
+  <card type="special" pickup="9" achievement="100" description="Valaminek kaki szaga van. tatatatatatata" id="45" name="Emberiség Ellenes Kártyák" announcer="333" announcerdelay="60" mimiccharge="6" />
+  <card type="special" pickup="2" achievement="120" description="Egy valós megoldás?" id="46" name="Öngyilkos Király" announcer="366" announcerdelay="110" mimiccharge="1" />
+  <card type="special" pickup="12" achievement="225" description="Szezám Tárulj" id="47" name="Szabadulócédula" announcer="404" announcerdelay="30" mimiccharge="2" />
+  <card type="special" pickup="2" description="Dulpa Aktiváció" id="48" name="? Kártya" announcer="408" announcerdelay="15" mimiccharge="1" />
+  <card type="object" pickup="6" description="D6 + D20" id="49" name="Kocka Szilánk" announcer="400" announcerdelay="3" mimiccharge="4" />
+  <card type="object" pickup="5" description="Segítség fentről" id="50" name="Segélyhivószám" announcer="401" announcerdelay="70" mimiccharge="3" />
+  <card type="special" pickup="11" achievement="293" description="Védve érzed magad" id="51" name="Szent Kártya" announcer="449" mimiccharge="4" />
+  <!-- Booster Pack #1 -->
+  <card type="special" pickup="8" announcer="735" achievement="361" description="Válj irdatlanná!" name="Hatalmas Kinövés" id="52" mimiccharge="3" />
+  <card type="special" pickup="8" announcer="733" achievement="362" description="Húzz 3 lapot" name="Ősi Idézés" id="53" mimiccharge="12" />
+  <card type="special" pickup="8" announcer="734" achievement="363" description="Élvezd ki a pillanatot" name="Idő Járás" id="54" mimiccharge="3" />
+  <rune type="rune" pickup="13" announcer="736" description="Halványan pislákol" id="55" name="Rúna Szilánk" mimiccharge="1" />
+  <!-- Reverse tarot cards -->
+  <card type="tarot_reverse" pickup="14" achievement="524" announcer="512" announcerdelay="60" description="Engedd el és lépj túl rajta" id="56" name="0 - A Bolond?" mimiccharge="12" />
+  <card type="tarot_reverse" pickup="14" achievement="525" announcer="513" announcerdelay="0" description="Semmi bántalom ne érjen" id="57" name="I - A Mágus?" mimiccharge="4" />
+  <card type="tarot_reverse" pickup="14" achievement="526" announcer="514" announcerdelay="110" description="Fuss" id="58" name="II - A Főpapnő?" mimiccharge="4" />
+  <card type="tarot_reverse" pickup="14" achievement="527" announcer="515" announcerdelay="70" description="A szereteted óvjon" id="59" name="III - Az Úrnő?" mimiccharge="4" />
+  <card type="tarot_reverse" pickup="14" achievement="528" announcer="516" announcerdelay="30" description="Találj egy méltó ellenfélre" id="60" name="IV - A Fejedelem?" greedmode="false" mimiccharge="2" />
+  <card type="tarot_reverse" pickup="14" achievement="529" announcer="517" announcerdelay="70" description="Két imát az elfelejtettnek" id="61" name="v - A Főpap?" mimiccharge="12" />
+  <card type="tarot_reverse" pickup="14" achievement="530" announcer="518" announcerdelay="60" description="Törjön a szíved darabokra" id="62" name="VI - A Szeretők?" mimiccharge="4" />
+  <card type="tarot_reverse" pickup="14" achievement="531" announcer="519" announcerdelay="0" description="Semmi ne sétálhasson el melletted" id="63" name="VII - A Batár?" mimiccharge="2" />
+  <card type="tarot_reverse" pickup="14" achievement="532" announcer="520" announcerdelay="0" description="Térjenek vissza a bűneid, hogy téged gyötörhessenek" id="64" name="VIII - Igazságosság?" mimiccharge="12" />
+  <card type="tarot_reverse" pickup="14" achievement="533" announcer="521" announcerdelay="60" description="Lásd az élet minden porcikájának az értékét" id="65" name="IX - A Remete?" mimiccharge="2" />
+  <card type="tarot_reverse" pickup="14" achievement="534" announcer="522" announcerdelay="60" description="Dobj a sors dobókockájával" id="66" name="X - A Szerencsekerék?" mimiccharge="4" />
+  <card type="tarot_reverse" pickup="14" achievement="535" announcer="523" announcerdelay="0" description="Törd meg az elszántságukat" id="67" name="XI - Erő?" mimiccharge="3" />
+  <card type="tarot_reverse" pickup="14" achievement="536" announcer="524" announcerdelay="0" description="Ne ismerjen a kapzsiságod határokat" id="68" name="XII - A Bitófázott?" mimiccharge="6" />
+  <card type="tarot_reverse" pickup="14" achievement="537" announcer="525" announcerdelay="0" description="Sarjadjon életerőd a bűnbeesettekből" id="69" name="XIII - Pusztulat?" mimiccharge="4" />
+  <card type="tarot_reverse" pickup="14" achievement="538" announcer="526" announcerdelay="120" description="Az éhínséged csillapodjon" id="70" name="XIV - Mérsékeltség?" mimiccharge="6" />
+  <card type="tarot_reverse" pickup="14" achievement="539" announcer="527" announcerdelay="70" description="Sütkérezz irgalmasságod fényében" id="71" name="XV - Az Ördög?" mimiccharge="4" />
+  <card type="tarot_reverse" pickup="14" achievement="540" announcer="528" announcerdelay="110" description="A teremtés pusztulást hoz" id="72" name="XVI - A Torony?" mimiccharge="3" />
+  <card type="tarot_reverse" pickup="14" achievement="541" announcer="529" announcerdelay="0" description="Merre jár, hol lehet most a kedvesem" id="73" name="XVII - A Csillagok?" mimiccharge="12" />
+  <card type="tarot_reverse" pickup="14" achievement="542" announcer="530" announcerdelay="0" description="Emlékezz mindenre ami elfeledett" id="74" name="XVIII - A Hold?" greedmode="false" mimiccharge="2" />
+  <card type="tarot_reverse" pickup="14" achievement="542" announcer="531" announcerdelay="0" description="Boruljon a világod sötétségbe" id="75" name="XIX - A Nap?" mimiccharge="6" />
+  <card type="tarot_reverse" pickup="14" achievement="543" announcer="532" announcerdelay="30" description="Váltsd meg azokat akinek szüksége van rá" id="76" name="XX - Végitélet?" mimiccharge="12" />
+  <card type="tarot_reverse" pickup="14" achievement="544" announcer="533" announcerdelay="30" description="Lépj be a szakadékba" id="77" name="XXI - A Világ?" mimiccharge="2" />
+  <!-- Misc cards -->
+  <card type="object" announcer="740" announcerdelay="60" pickup="15" achievement="415" description="???" name="Repedt Kulcs" greedmode="false" id="78" mimiccharge="4" />
+  <card type="suit" announcer="741" announcerdelay="80" pickup="2" achievement="602" description="&amp;lt;3" id="79" name="Kör Dáma" mimiccharge="12" />
+  <card type="special" announcer="742" announcerdelay="70" pickup="17" achievement="610" description="Mégeccer" id="80" name="Ütő Lap" mimiccharge="6" />
+  <!-- Soul stones -->
+  <card type="rune" pickup="18" achievement="618" announcer="743" description="Csere... vagy mégse?" id="81" name="Izsák Lelke" mimiccharge="4" />
+  <card type="rune" pickup="19" achievement="619" announcer="744" description="Add nekem a szereteded!" id="82" name="Magdolna Lelke" mimiccharge="3" />
+  <card type="rune" pickup="20" achievement="620" announcer="745" description="Ki nyitja a nyithatatlant" id="83" name="Káin Lelke" mimiccharge="6" />
+  <card type="rune" pickup="21" achievement="621" announcer="746" description="Mögötted" id="84" name="Júdás Lelke" mimiccharge="3" />
+  <card type="rune" pickup="22" achievement="622" announcer="747" announcerdelay="110" description="Vegyi fegyver" id="85" name="???-lelke" mimiccharge="3" />
+  <card type="rune" pickup="23" achievement="623" announcer="748" description="Varjú csapat" id="86" name="Éva Lelke" mimiccharge="4" />
+  <card type="rune" pickup="24" achievement="624" announcer="749" description="Ölj ezreket" id="87" name="Sámson Lelke" mimiccharge="6" />
+  <card type="rune" pickup="25" achievement="625" announcer="750" description="Démon düh!" id="88" name="Azazel Lelke" mimiccharge="6" />
+  <card type="rune" pickup="26" achievement="626" announcer="751" announcerdelay="60" description="Az élet a halál után" id="89" name="Lazarus Lelke" mimiccharge="1" />
+  <card type="rune" pickup="27" achievement="627" announcer="752" description="Ragadd meg a káoszt" id="90" name="Éden Lelke" mimiccharge="4" />
+  <card type="rune" pickup="28" achievement="628" announcer="753" announcerdelay="60" description="Hagyd hátra a tested" id="91" name="Az Elveszett Lelke" mimiccharge="3" />
+  <card type="rune" pickup="29" achievement="629" announcer="754" announcerdelay="30" description="Anyaság" id="92" name="Lilith Lelke" mimiccharge="12" />
+  <card type="rune" pickup="30" achievement="630" announcer="755" description="$$$" id="93" name="A Boltos Lelke" mimiccharge="12" />
+  <card type="rune" pickup="31" achievement="631" announcer="756" description="A balsors horodozója" id="94" name="Apollyon Lelke" mimiccharge="6" />
+  <card type="rune" pickup="32" achievement="632" announcer="757" description="Védőcsont" id="95" name="Az Elfeledett Lelke" mimiccharge="4" />
+  <card type="rune" pickup="33" achievement="633" announcer="758" description="Barátok odaátról" id="96" name="Bettina Lelke" mimiccharge="6" />
+  <card type="rune" pickup="34" achievement="634" announcer="759" description="Vérrel kötve" id="97" name="Jakab és Ezsau Lelke" mimiccharge="4" />
+  <!--
+	Pill classes:
+		3: Major (a permanent effect, usually a stat modifier)
+		2: Medium (an effect with a significant impact, i.e. health or damage)
+		1: Minor (an effect which is only situationally useful)
+		0: Joke (an effect which is nigh useless)
+		
+	Append a + or - at the end to denote a positive or negative effect, no suffix means a neutral effect
+	-->
+  <pilleffect announcer2="760" id="0" name="Mérges Gáz" announcer="328" class="1+" mimiccharge="1" />
+  <pilleffect announcer2="761" id="1" name="Patkánymérges Herbál" announcer="329" announcerdelay="60" class="2-" mimiccharge="2" />
+  <pilleffect announcer2="762" id="2" name="Kemény mint a tarzan sarka" announcer="330" announcerdelay="70" class="2+" mimiccharge="12" />
+  <pilleffect announcer2="763" id="3" name="Bomba = Kulcs" announcer="332" announcerdelay="70" class="2" mimiccharge="1" />
+  <pilleffect announcer2="764" id="4" name="Krakatoa" announcer="339" announcerdelay="30" class="1" mimiccharge="3" />
+  <pilleffect announcer2="765" id="5" name="Teljes Ellátás" announcer="340" announcerdelay="70" class="2+" mimiccharge="12" />
+  <pilleffect announcer2="767" id="6" name="Kevesebb Szív" announcer="342" announcerdelay="55" class="3-" mimiccharge="4" />
+  <pilleffect announcer2="766" id="7" name="Több Szív" announcer="343" announcerdelay="70" class="3+" mimiccharge="6" />
+  <pilleffect announcer2="768" id="8" name="Találtam egy bogyót" description="...és megettem" announcer="345" announcerdelay="50" class="0" mimiccharge="1" />
+  <pilleffect announcer2="769" id="9" name="Pubertás" announcer="357" announcerdelay="60" class="0" mimiccharge="1" />
+  <pilleffect announcer2="770" id="10" name="Légy Menő!" announcer="356" announcerdelay="45" class="2+" mimiccharge="6" />
+  <pilleffect announcer2="771" id="11" name="Közelebbre Érő Könnyek" announcer="359" announcerdelay="60" class="3-" mimiccharge="4" />
+  <pilleffect announcer2="772" id="12" name="Messzebbre Érő Könnyek" announcer="360" announcerdelay="70" class="3+" mimiccharge="6" />
+  <pilleffect announcer2="773" id="13" name="Lassúság" announcer="363" announcerdelay="60" class="3-" mimiccharge="4" />
+  <pilleffect announcer2="774" id="14" name="Gyorsaság" announcer="364" announcerdelay="70" class="3+" mimiccharge="6" />
+  <pilleffect announcer2="775" id="15" name="Kevesebb Sírás" announcer="367" announcerdelay="60" class="3-" mimiccharge="4" />
+  <pilleffect announcer2="776" id="16" name="Több Sírás" announcer="368" announcerdelay="70" class="3+" mimiccharge="6" />
+  <pilleffect announcer2="777" id="17" name="Balszerencse" announcer="351" announcerdelay="60" class="3-" mimiccharge="4" />
+  <pilleffect announcer2="778" id="18" name="Több Szerencse" announcer="352" announcerdelay="70" class="3+" mimiccharge="6" />
+  <pilleffect announcer2="779" id="19" name="Telebogyó" greedmode="false" announcer="369" announcerdelay="60" class="1" mimiccharge="1" />
+  <pilleffect announcer2="780" id="20" name="48 Órán át tartó enegia!" announcer="324" announcerdelay="50" class="2+" mimiccharge="12" />
+  <pilleffect announcer2="781" id="21" name="Hematemézis" announcer="344" class="2" mimiccharge="6" />
+  <pilleffect announcer2="782" id="22" name="Paralízis" announcer="353" class="1-" mimiccharge="6" />
+  <pilleffect announcer2="783" id="23" name="El látok a végteleségbe!" announcer="362" announcerdelay="60" class="2+" mimiccharge="4" />
+  <pilleffect announcer2="784" id="24" name="Feromon" announcer="355" announcerdelay="40" class="1+" mimiccharge="2" />
+  <pilleffect announcer2="785" id="25" name="Amnézia" announcer="326" announcerdelay="70" class="2-" mimiccharge="6" />
+  <pilleffect announcer2="786" id="26" name="Arany Eső" announcer="350" class="1+" mimiccharge="3" />
+  <pilleffect announcer2="787" id="27" name="Benzinkúti Fájdalomcsillapító" announcer="358" announcerdelay="60" class="1-" mimiccharge="6" />
+  <pilleffect announcer2="788" achievement="227" id="28" name="Xanax" announcer="406" announcerdelay="45" class="1+" mimiccharge="2" />
+  <pilleffect announcer2="789" achievement="227" id="29" name="Függő!" announcer="399" announcerdelay="40" class="1-" mimiccharge="6" />
+  <pilleffect announcer2="790" achievement="228" id="30" name="Kúp" announcer="409" announcerdelay="80" class="0" mimiccharge="2" />
+  <pilleffect announcer2="791" achievement="228" id="31" name="???" announcer="412" announcerdelay="60" class="1-" mimiccharge="6" />
+  <pilleffect announcer2="792" id="32" name="Vörös Csaba Fasznövelő tabletta" announcer="405" announcerdelay="1" class="1" mimiccharge="6" />
+  <pilleffect announcer2="793" id="33" name="Kék Csaba Faszsorvasztó tabletta" announcer="411" announcerdelay="1" class="1" mimiccharge="6" />
+  <pilleffect announcer2="794" id="34" name="Ellepett!" announcer="402" announcerdelay="30" class="1+" mimiccharge="2" />
+  <pilleffect announcer2="795" id="35" name="Ellepett?" announcer="403" announcerdelay="5" class="1+" mimiccharge="2" />
+  <pilleffect announcer2="796" id="36" name="Erő Bogyó!" announcer="407" announcerdelay="5" class="1+" mimiccharge="3" />
+  <pilleffect announcer2="797" id="37" name="Retró Látás" announcer="410" announcerdelay="30" class="1-" mimiccharge="6" />
+  <pilleffect announcer2="798" id="38" name="Barátok mindhalálig!" announcer="452" announcerdelay="30" class="1+" mimiccharge="1" />
+  <pilleffect announcer2="799" id="39" name="BX-Xarz" announcer="443" announcerdelay="30" class="0-" mimiccharge="1" />
+  <pilleffect announcer2="800" id="40" name="Ez teljesen normális" announcer="444" announcerdelay="30" class="0+" mimiccharge="1" />
+  <pilleffect announcer2="801" id="41" name="Rotyogás..." announcer="454" announcerdelay="30" class="1" mimiccharge="3" />
+  <pilleffect announcer2="802" id="42" name="Kattogás!!!" announcer="453" announcerdelay="30" class="1" mimiccharge="6" />
+  <pilleffect announcer2="803" achievement="321" id="43" name="Gurp!" announcer="451" announcerdelay="30" class="2+" mimiccharge="4" />
+  <pilleffect announcer2="804" achievement="325" id="44" name="Pfujj!" announcer="448" announcerdelay="70" class="0" mimiccharge="1" />
+  <pilleffect announcer2="805" achievement="324" id="45" name="Minha napsugáron sétálnák" announcer="446" announcerdelay="30" class="1+" mimiccharge="1" />
+  <pilleffect announcer2="806" achievement="330" id="46" name="Vurp!" announcer="445" announcerdelay="60" class="2+" mimiccharge="6" />
+  <!-- REPENTANCE BEGIN -->
+  <pilleffect id="47" announcer="737" announcer2="807" announcerdelay="55" name="Kissebb Lövet Sebesség" class="1-" mimiccharge="4" />
+  <pilleffect id="48" announcer="738" announcer2="808" announcerdelay="70" name="Nagyobb Lövet Sebesség" class="1+" mimiccharge="6" />
+  <pilleffect id="49" announcer="739" announcer2="809" announcerdelay="70" name="Kisérleti Bogyó" class="3" mimiccharge="3" />
+  <!-- REPENTANCE END -->
+</pocketitems>

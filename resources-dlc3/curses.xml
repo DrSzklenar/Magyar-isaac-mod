@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<curses>
+  <curse id="1" name="A Setétség Átka!" />
+  <curse id="2" name="A Labirintus Átka!" />
+  <curse id="3" name="Az Elkallódott Átka" />
+  <curse id="4" name="Az Ismeretlen Ákta!" />
+  <curse id="5" name="Az Átkosak Átka!" />
+  <curse id="6" name="A Útvesztő Átka" />
+  <curse id="7" name="A Vak Átka!" />
+  <curse id="8" name="Az Óriás Átka!" />
+</curses>
